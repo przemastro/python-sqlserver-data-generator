@@ -4,7 +4,7 @@ import ConfigParser
 config = ConfigParser.RawConfigParser()
 config.read('../resources/env.properties')
 list = []
-login = 'IMPAQ\pjag'
+login = 'myFancyLogin'
 
 def addTestData(db, schema, Name, LastName, Level, Area, Salary, Grade):
     try:
