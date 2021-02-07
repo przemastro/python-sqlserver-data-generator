@@ -12,7 +12,7 @@ It is prepared for https://github.com/przemastro/TestsingTraining-Polish-.git ap
 
 # Installation
 
-1. Python, pip and libraries pyodbc, qt4
+Python, pip and libraries pyodbc, qt4
 
 # Run
 
